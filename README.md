@@ -14,3 +14,6 @@ cd monte_carlo_simulation
 chmod +x run.sh
 ./run.sh
 ```
+
+## Here is how it looks
+![Whoops! Can't find that :(](https://github.com/Chameleeon/monte_carlo_simulation/blob/main/monte_carlo.png)
